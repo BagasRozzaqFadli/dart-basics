@@ -1,11 +1,17 @@
 void main() {
   String kota = 'Jepara';
-if(kota == 'Jepara') true;
-else false;
+if(kota == 'Jepara') {
+  true;
+} else {
+  false;
+}
 
   String kota1 = 'Kudus';
-if(kota1 == 'Jepara') true;
-else false;
+if(kota1 == 'Jepara') {
+  true;
+} else {
+  false;
+}
 
 print (kota);
 print (kota1);
